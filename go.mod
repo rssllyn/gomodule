@@ -1,3 +1,3 @@
-module git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/gomodule
+module github.com/rssllyn/gomodule
 
 go 1.15
